@@ -1,6 +1,6 @@
-# badmintop
+# Badmintop
 
-A new Flutter application.
+Um aplicativo móvel para auxiliar no ensino do esporte Badminton
 
 ## Getting Started
 
